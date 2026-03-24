@@ -6,8 +6,14 @@ Open the fish food container by twisting or lifting the lid.
 
 # Step 3
 Gather the fish food into the lid. 
-![[Fish food in tin.png]]
-**Figure 1. Fish food in lid (Photo by Brian Nguyen)**
+<p align="center">
+  <img src="Fish food in tin.png" width="400"/>
+</p>
+
+<p align="center">
+  <strong>Figure 1. Fish food in lid (Photo by Brian Nguyen)</strong>
+</p>
+
 # Step 4
 Sprinkle food bit by bit evenly across the surface. 
 
