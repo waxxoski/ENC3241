@@ -19,13 +19,20 @@ Sprinkle food bit by bit evenly across the surface.
 
 # Step 5
 Push stuck food off decorations or plant using a long stick or implement.
-![[Hidden away food.png|285]]
-**Figure 2. Hidden away food (Photo by Brian Nguyen)**
+<p align="center">
+  <img src="Hidden away food.png" width="400"/>
+</p>
+
+<p align="center">
+  <strong>Figure 2. Hidden away food (Photo by Brian Nguyen)</strong>
 # Step 6
 Watch to make sure fish are interested in all food dropped.
+<p align="center">
+  <img src="Cory eating.png" width="400"/>
+</p>
 
-**![[Cory eating.png|342]]
-**Figure 3. Corydora Catfish eating food (Photo by Brian Nguyen)**
+<p align="center">
+  <strong>Figure 3. Corydora Catfish eating food (Photo by Brian Nguyen)</strong>
 # Step 7
 Store fish food container in a dry place.
 
