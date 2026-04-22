@@ -3,11 +3,11 @@ layout: default
 title: Cover Letter
 ---
 <section style="max-width: 900px; margin: auto; text-align: center;">
-  <h2>Resume</h2>
+  <h2>Cover Letter</h2>
 
   <p>
     <a href="enc_3241_cover_letter.pdf" target="_blank">
-      Open Resume in New Tab
+      Open Cover Letter in New Tab
     </a>
   </p>
 
