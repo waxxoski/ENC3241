@@ -16,7 +16,9 @@ title: Instructions
   <p>Gather the fish food into the lid.</p>
   <div style="text-align:center;">
     <img src="Fish food in tin.png" width="400">
-    <p><strong>Figure 1. Fish food in lid (Photo by Brian Nguyen)</strong></p>
+    <p style="font-size: 0.9em; color: #555;">
+      Figure 1. Fish food in lid (Photo by Brian Nguyen)
+    </p>
   </div>
 
   <h3>Step 4</h3>
@@ -26,14 +28,18 @@ title: Instructions
   <p>Push stuck food off decorations or plants using a long stick.</p>
   <div style="text-align:center;">
     <img src="Hidden away food.png" width="400">
-    <p><strong>Figure 2. Hidden away food (Photo by Brian Nguyen)</strong></p>
+    <p style="font-size: 0.9em; color: #555;">
+      Figure 2. Hidden away food (Photo by Brian Nguyen)
+    </p>
   </div>
 
   <h3>Step 6</h3>
   <p>Watch to make sure fish are interested in all food dropped.</p>
   <div style="text-align:center;">
     <img src="Cory eating.png" width="400">
-    <p><strong>Figure 3. Corydora Catfish eating food (Photo by Brian Nguyen)</strong></p>
+    <p style="font-size: 0.9em; color: #555;">
+      Figure 3. Corydora Catfish eating food (Photo by Brian Nguyen)
+    </p>
   </div>
 
   <h3>Step 7</h3>
