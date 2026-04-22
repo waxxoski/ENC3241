@@ -43,7 +43,7 @@ Watch to make sure the fish are interested in all the food dropped.
   Figure 3. Corydora Catfish eating food (Photo by Brian Nguyen)
   
 # Step 7
-Store fish food container in a dry place.
+Store the fish food container in a dry place.
 
 # Step 8
 Use a net or a funnel to grab unfinished or untouched food.
