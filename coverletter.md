@@ -23,7 +23,9 @@ I am very interested in the position due to the culture within that allows for c
 	I would be a strong fit for the role. My experience in creative writing and strong knowledge of the tech field will enable creative, out-of-the-box video scripts. I can contribute a unique perspective that would also enrich the many channels that LMG has. In addition, I have a strong ability to coordinate with other departments to ensure efficient production schedules. In fact, I tailor how I approach things depending on the person, ensuring that cooperation is strong and efficient.
 	I welcome the opportunity to further discuss my qualifications for this position. Thank you for your consideration.
 Sincerely
-
+<p align="center">
+  <img src="signature.png" width="400"/>
+</p>
 Brian Nguyen
 
 
