@@ -31,7 +31,7 @@ Push stuck food off decorations or plant using a long stick or implement.
 </p>
 
 <p align="center">
-  <strong>Figure 2. Hidden away food (Photo by Brian Nguyen)</strong>
+  Figure 2. Hidden away food (Photo by Brian Nguyen)
   
 # Step 6
 Watch to make sure fish are interested in all food dropped.
