@@ -1,9 +1,9 @@
 /* COLORS - Change these to personalize your site */
 :root {
-  --primary: #702963;    /* UCF Black */
+  --primary: #702963;    /* byzantium */
   --accent: #a93d66;     /* UCF Gold */
   --text: #333;
-  --background: #fff;
+  --background: #ffe6ff;
 }
 
 /* BASIC LAYOUT */
